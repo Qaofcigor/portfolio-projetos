@@ -1,0 +1,18 @@
+{
+  "name": "teste-de-api-postman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "newman run collection-sample.json",
+    "test:post": "newman run collection-post-example.json",
+    "test:put": "newman run collection-put-example.json",
+    "test:delete": "newman run collection-delete-example.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "newman": "^6.2.1"
+  }
+}
