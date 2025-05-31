@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ambiente de Teste Automatizado de API
 
 Este projeto está configurado para realizar testes automatizados de API utilizando Postman e Newman.
@@ -46,3 +47,7 @@ Este ambiente está pronto para você começar a estudar e automatizar testes de
 # cases-como-qa
 👋 Sou Igor Rodrigues Santiago   🎯 QA | Suporte Técnico | Testes Manuais e Automatizados   🎓 ADS - VINCIT | ISTQB em andamento   💻 Java, Selenium, Postman, Cypress, Git   📍 Fortaleza-CE   📫 qa.ofcigorsantiago@email.com | [LinkedIn](https://linkedin.com/in/qaofcigor-santiago)
 >>>>>>> 8e4c6d90cdb080bae288658f417c3c9ff9197085
+=======
+# portfolio-projetos
+👋 Sou Igor Rodrigues Santiago   🎯 QA | Suporte Técnico | Testes Manuais e Automatizados   🎓 ADS - VINCIT | ISTQB em andamento   💻 Java, Selenium, Postman, Cypress, Git   📍 Fortaleza-CE   📫 qa.ofcigorsantiago@email.com | [LinkedIn](https://linkedin.com/in/qaofcigor-santiago)
+>>>>>>> 142cfc59157939d3db166aec9abc7df9e45f087e
