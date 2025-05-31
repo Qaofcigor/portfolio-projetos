@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ambiente de Teste Automatizado de API
 
 Este projeto está configurado para realizar testes automatizados de API utilizando Postman e Newman.
@@ -41,3 +42,7 @@ Este projeto está configurado para realizar testes automatizados de API utiliza
 - [Newman](https://www.npmjs.com/package/newman)
 
 Este ambiente está pronto para você começar a estudar e automatizar testes de API.
+=======
+# cases-como-qa
+👋 Sou Igor Rodrigues Santiago   🎯 QA | Suporte Técnico | Testes Manuais e Automatizados   🎓 ADS - VINCIT | ISTQB em andamento   💻 Java, Selenium, Postman, Cypress, Git   📍 Fortaleza-CE   📫 qa.ofcigorsantiago@email.com | [LinkedIn](https://linkedin.com/in/qaofcigor-santiago)
+>>>>>>> 8e4c6d90cdb080bae288658f417c3c9ff9197085
